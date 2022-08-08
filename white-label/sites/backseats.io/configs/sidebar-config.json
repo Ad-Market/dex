@@ -5,18 +5,6 @@
     "home"
   ],
   "menuLinks": [
-    {
-      "icon": "docs.svg",
-      "name": "Docs",
-      "link": "https://docs.lz.finance/",
-      "target": "_blank"
-    },
-    {
-      "icon": "help.svg",
-      "name": "Help",
-      "link": "https://help.lz.finance/",
-      "target": "_blank"
-    }
   ],
   "helpLinks": [
     {
