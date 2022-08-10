@@ -1,0 +1,43 @@
+{
+  "disabledApps": [],
+  "menuLinks": [
+    {
+      "icon": "pad.svg",
+      "name": "Pad",
+      "link": "/pad",
+      "target": "_self"
+    },
+    {
+      "icon": "docs.svg",
+      "name": "Docs",
+      "link": "https://docs.lz.finance/",
+      "target": "_blank"
+    },
+    {
+      "icon": "help.svg",
+      "name": "Help",
+      "link": "https://help.lz.finance/",
+      "target": "_blank"
+    }
+  ],
+  "helpLinks": [
+    {
+      "href": "https://t.me/lzofficial",
+      "icon": "telegram.svg"
+    },
+    {
+      "href": "https://t.me/launchzoneann",
+      "icon": "global-community.svg"
+    },
+    {
+      "href": "https://twitter.com/launchzoneann",
+      "icon": "twitter.svg"
+    },
+    {
+      "href": "https://www.facebook.com/launchzoneann",
+      "icon": "facebook.svg"
+    }
+  ]
+}
+
+

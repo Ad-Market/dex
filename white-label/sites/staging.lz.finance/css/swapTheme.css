@@ -1,0 +1,40 @@
+.swap-page-interface {
+    --swap-color-primary: #328B31;
+    --swap-color-primary-light: #96CF24;
+    --swap-color-primary-light-1: #5AA62B;
+    --swap-color-text-grey: #9CA3AF;
+    --swap-color-text-grey-light: rgba(156, 163, 175, 0.64);
+    --swap-color-danger: #f34159;
+    --swap-color-sell: #EF5350;
+    --swap-color-buy: #58C27D;
+    --swap-color-text-link: #3eb8ff;
+    --swap-color-text-link-hover: #11aaff;
+}
+
+.swap-page-interface.dark {
+    --swap-loading-background-color: #353535;
+    --swap-layout-background-color: #000000;
+    --swap-color-text-default: #ffffff;
+    --swap-color-box-border: rgba(256, 256, 256, 0.2);
+    --swap-color-box-bg: #2A2C32;
+    --swap-color-card-bg: #181818;
+    --swap-color-overlay: rgba(39, 39, 39, 0.9);
+    --swap-color-input-field-bg: #2A2C32;
+    --swap-color-modal-bg: #2a2c32;
+    --swap-color-select-token-hover: #808080;
+    --swap-color-toggle-button-bg: #6b6b6b;
+}
+
+.swap-page-interface.light {
+    --swap-loading-background-color: #dfdfdf;
+    --swap-layout-background-color: #E5E5E5;
+    --swap-color-text-default: #535353;
+    --swap-color-box-border: rgba(128, 128, 128, 0.3);
+    --swap-color-box-bg: #F5F5F9;
+    --swap-color-card-bg: #ffffff;
+    --swap-color-overlay: rgba(240, 240, 240, 0.9);
+    --swap-color-input-field-bg: #F5F5F9;
+    --swap-color-modal-bg: #ffffff;
+    --swap-color-select-token-hover: #E5E5E5;
+    --swap-color-toggle-button-bg: #bcbcbc;
+}
