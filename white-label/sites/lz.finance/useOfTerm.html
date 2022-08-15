@@ -69,6 +69,13 @@
             background: #989898;
         }
     </style>
+    <script>
+        window.onload = function () {
+            const searchQuery = new URLSearchParams(window.location.search)
+            console.log(searchQuery.get('theme') === 'dark' ? 'dark' : 'light')
+            document.body.classList.add(searchQuery.get('theme') === 'dark' ? 'dark' : 'light')
+        }
+    </script>
 </head>
 <body>
 <div class="content">
