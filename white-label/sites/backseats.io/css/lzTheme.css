@@ -22,3 +22,12 @@ body {
     --lz-color-nav-bg: #3a3a3a;
 }
 
+.dark {
+    --layout-background-color: #000000;
+    --color-text-default: #ffffff;
+}
+
+.light {
+    --layout-background-color: #E5E5E5;
+    --color-text-default: #000000;
+}
