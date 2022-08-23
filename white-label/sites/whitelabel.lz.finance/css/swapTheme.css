@@ -1,14 +1,15 @@
 .swap-page-interface {
-    --swap-color-primary: #0c053d;
-    --swap-color-primary-light: #0053f4;
-    --swap-color-primary-light-1: #00fef3;
+    --swap-color-primary: #E8C95E;
+    --swap-color-primary-light: #FBF4C2;
+    --swap-color-primary-light-1: #E8C95E;
     --swap-color-text-grey: #9CA3AF;
     --swap-color-text-grey-light: rgba(156, 163, 175, 0.64);
     --swap-color-danger: #f34159;
     --swap-color-sell: #EF5350;
     --swap-color-buy: #58C27D;
-    --swap-color-text-link: #3eb8ff;
-    --swap-color-text-link-hover: #11aaff;
+    --swap-color-text-link: #E8C95E;
+    --swap-color-text-link-hover: #f6c724;
+    --swap-color-btn-text: #282828;
 }
 
 .swap-page-interface.dark {

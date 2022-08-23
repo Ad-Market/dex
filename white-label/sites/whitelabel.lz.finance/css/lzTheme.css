@@ -1,7 +1,7 @@
 body {
-    --lz-color-primary: #0c053d;
-    --lz-color-primary-light: #0053f4;
-    --lz-color-primary-light-1: #00fef3;
+    --lz-color-primary: #E8C95E;
+    --lz-color-primary-light: #E8C95E;
+    --lz-color-primary-light-1: #FBF4C2;
 
     --lz-color-layout-background: #000000;
     --lz-color-grey: #535353;
@@ -10,6 +10,7 @@ body {
     --lz-color-white: #fff;
     --lz-color-black: #000;
     --lz-color-text: #ffffff;
+    --lz-color-btn-text: #282828;
 
     --lz-color-sidebar-label-bg: #3a4867;
     --lz-color-sidebar-border: rgba(128, 128, 128, 0.2);
@@ -18,7 +19,16 @@ body {
     --lz-color-scrollbar-thumb: rgba(128, 128, 128, 0.3);
     --lz-color-scrollbar-thumb-hover: #E5E5E5;
 
-    --lz-color-nav-label-bg: rgba(103, 170, 251, 0.5);
+    --lz-color-nav-label-bg: rgba(251, 244, 194, 0.5);
     --lz-color-nav-bg: #3a3a3a;
 }
 
+.dark {
+    --layout-background-color: #000000;
+    --color-text-default: #ffffff;
+}
+
+.light {
+    --layout-background-color: #E5E5E5;
+    --color-text-default: #000000;
+}
