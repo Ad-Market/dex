@@ -10,6 +10,10 @@
     --swap-color-text-link: #E8C95E;
     --swap-color-text-link-hover: #f6c724;
     --swap-color-btn-text: #282828;
+
+    --swap-color-text-gradient: #E8C95E;
+    --swap-color-text-gradient-1: #E8C95E;
+    --swap-color-border-primary: #E8C95E;
 }
 
 .swap-page-interface.dark {
