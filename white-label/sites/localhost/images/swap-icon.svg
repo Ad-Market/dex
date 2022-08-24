@@ -22,8 +22,8 @@
                 y2='14.667'
                 gradientUnits='userSpaceOnUse'
         >
-            <stop stop-color='#00fef3'/>
-            <stop offset='1' stop-color='#0053f4'/>
+            <stop stop-color='#FBF4C2'/>
+            <stop offset='1' stop-color='#E8C95E'/>
         </linearGradient>
         <linearGradient
                 id='paint1_linear_2263_22302'
@@ -33,8 +33,8 @@
                 y2='1.33301'
                 gradientUnits='userSpaceOnUse'
         >
-            <stop stop-color='#00fef3'/>
-            <stop offset='1' stop-color='#0053f4'/>
+            <stop stop-color='#FBF4C2'/>
+            <stop offset='1' stop-color='#E8C95E'/>
         </linearGradient>
     </defs>
 </svg>

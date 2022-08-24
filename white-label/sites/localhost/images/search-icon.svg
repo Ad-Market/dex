@@ -1,0 +1,62 @@
+<svg
+        width='22'
+        height='22'
+        viewBox='0 0 22 22'
+        fill='none'
+        xmlns='http://www.w3.org/2000/svg'
+>
+    <path
+            d='M15.4165 15.5833L18.1665 18.3333'
+            stroke='url(#search_paint0_linear1)'
+            stroke-width='2'
+            stroke-linecap='round'
+    />
+    <circle
+            cx='9.91667'
+            cy='10.0834'
+            r='6.41667'
+            stroke='url(#search_paint1_linear1)'
+            stroke-width='2'
+    />
+    <path
+            d='M9.9165 7.33325C9.55537 7.33325 9.19777 7.40438 8.86412 7.54258C8.53048 7.68078 8.22732 7.88335 7.97196 8.13871C7.7166 8.39407 7.51404 8.69723 7.37584 9.03087C7.23763 9.36452 7.1665 9.72212 7.1665 10.0833'
+            stroke='url(#search_paint2_linear1)'
+            stroke-width='2'
+            stroke-linecap='round'
+    />
+    <defs>
+        <linearGradient
+                id='search_paint0_linear1'
+                x1='15.706'
+                y1='15.5833'
+                x2='18.1665'
+                y2='15.5833'
+                gradientUnits='userSpaceOnUse'
+        >
+            <stop stop-color='#FBF4C2' />
+            <stop offset='1' stop-color='#E8C95E' />
+        </linearGradient>
+        <linearGradient
+                id='search_paint1_linear1'
+                x1='14.9825'
+                y1='16.5001'
+                x2='3.5'
+                y2='16.5001'
+                gradientUnits='userSpaceOnUse'
+        >
+            <stop stop-color='#FBF4C2' />
+            <stop offset='1' stop-color='#E8C95E' />
+        </linearGradient>
+        <linearGradient
+                id='search_paint2_linear1'
+                x1='12.0876'
+                y1='12.8333'
+                x2='7.1665'
+                y2='12.8333'
+                gradientUnits='userSpaceOnUse'
+        >
+            <stop stop-color='#FBF4C2' />
+            <stop offset='1' stop-color='#E8C95E' />
+        </linearGradient>
+    </defs>
+</svg>
