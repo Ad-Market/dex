@@ -10,10 +10,6 @@
     --swap-color-text-link: #E8C95E;
     --swap-color-text-link-hover: #f6c724;
     --swap-color-btn-text: #282828;
-
-    --swap-color-text-gradient: #E8C95E;
-    --swap-color-text-gradient-1: #E8C95E;
-    --swap-color-border-primary: #E8C95E;
 }
 
 .swap-page-interface.dark {
@@ -29,6 +25,10 @@
     --swap-color-modal-bg: #2a2c32;
     --swap-color-select-token-hover: #808080;
     --swap-color-toggle-button-bg: #6b6b6b;
+
+    --swap-color-text-gradient: #FBF4C2;
+    --swap-color-text-gradient-1: #E8C95E;
+    --swap-color-border-primary: #FBF4C2;
 }
 
 .swap-page-interface.light {
@@ -43,4 +43,8 @@
     --swap-color-modal-bg: #ffffff;
     --swap-color-select-token-hover: #E5E5E5;
     --swap-color-toggle-button-bg: #bcbcbc;
+
+    --swap-color-text-gradient: #F3BA2F;
+    --swap-color-text-gradient-1: #F3BA2F;
+    --swap-color-border-primary: #F3BA2F;
 }
