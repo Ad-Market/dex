@@ -1,0 +1,39 @@
+{
+  "lightPalette": {
+    "popupBg": "#ffffff",
+    "inputBg": "#f5f5f9",
+    "bg1": "#fafafa",
+    "bg2": "#ffffff",
+    "bg5": "#0c053d",
+    "primaryHover": "#E8C95E",
+    "primary": "#E8C95E",
+    "sell": "#EF5350",
+    "buy": "#58C27D",
+    "overallBg": "#e5e5e5",
+    "moduleBg": "#fff",
+    "t": {
+      "primary": "#535353",
+      "yellow": "#E8C95E"
+    }
+  },
+  "darkPalette": {
+    "modalBg": "#353535",
+    "popupBg": "rgb(31 31 31)",
+    "inputBg": "#2A2C32",
+    "bg1": "#fafafa",
+    "bg2": "#ffffff",
+    "bg3": "rgba(156,163,175,0.29)",
+    "bg5": "#0c053d",
+    "primaryHover": "#E8C95E",
+    "primary": "#E8C95E",
+    "sell": "#EF5350",
+    "buy": "#58C27D",
+    "overallBg": "rgba(255,255,255,0.07)",
+    "moduleBg": "#181818",
+    "newLine": "#353535",
+    "t": {
+      "primary": "#fff",
+      "yellow": "#E8C95E"
+    }
+  }
+}

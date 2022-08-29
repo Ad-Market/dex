@@ -1,0 +1,34 @@
+body {
+    --lz-color-primary: #E8C95E;
+    --lz-color-primary-light: #E8C95E;
+    --lz-color-primary-light-1: #FBF4C2;
+
+    --lz-color-layout-background: #000000;
+    --lz-color-grey: #535353;
+    --lz-color-grey-light: #9CA3AF;
+    --lz-color-grey-light-1: #808080;
+    --lz-color-white: #fff;
+    --lz-color-black: #000;
+    --lz-color-text: #ffffff;
+    --lz-color-btn-text: #282828;
+
+    --lz-color-sidebar-label-bg: #3a4867;
+    --lz-color-sidebar-border: rgba(128, 128, 128, 0.2);
+    --lz-color-sidebar-bg: #1b1d1c;
+    --lz-color-scrollbar-track: #2A2C32;
+    --lz-color-scrollbar-thumb: rgba(128, 128, 128, 0.3);
+    --lz-color-scrollbar-thumb-hover: #E5E5E5;
+
+    --lz-color-nav-label-bg: rgba(251, 244, 194, 0.5);
+    --lz-color-nav-bg: #3a3a3a;
+}
+
+.dark {
+    --layout-background-color: #000000;
+    --color-text-default: #ffffff;
+}
+
+.light {
+    --layout-background-color: #E5E5E5;
+    --color-text-default: #000000;
+}
