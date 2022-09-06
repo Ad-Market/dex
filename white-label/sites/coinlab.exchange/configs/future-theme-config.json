@@ -13,7 +13,9 @@
     "moduleBg": "#fff",
     "t": {
       "primary": "#535353",
-      "yellow": "#E8C95E"
+      "yellow": "#E8C95E",
+      "sell": "#ef5350",
+      "buy": "#58c27d"
     }
   },
   "darkPalette": {
@@ -33,7 +35,9 @@
     "newLine": "#353535",
     "t": {
       "primary": "#fff",
-      "yellow": "#E8C95E"
+      "yellow": "#E8C95E",
+      "sell": "#ef5350",
+      "buy": "#58c27d"
     }
   }
 }
